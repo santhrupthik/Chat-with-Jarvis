@@ -1,0 +1,21 @@
+System requirements
+
+1.Operating system: Windows XP, 7, 8 or 10
+2.Editor: Code Blocks version 20.3
+3.Programming language: C
+4.Compiler: GNU GCC compiler
+5.Memory: 256 MB
+
+Functional requirements
+
+1.Chatbot responds whenever a conversation is initiated.
+2.It has error handling capability.
+3.It is efficient.
+
+
+Non-functional requirements
+
+1.The chatbot must be available to chat at any time.
+2.The chatbot must be consistent with its responses.
+
+
