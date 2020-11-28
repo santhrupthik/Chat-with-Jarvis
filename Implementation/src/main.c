@@ -1,8 +1,9 @@
 #include<stdio.h>
+char *get();
 char x[30];
 void main()
 {
-	 gets(x);
+	// gets(x);
    printf("hello,this is Jarvis\n");
    while(1){
     get();
@@ -31,8 +32,9 @@ void main()
         printf("i have some work bye");
     }
    }
-   //char *get(void){
-     //  gets(x);
-       // return x;
+   char *get(void){
+       gets(x);
+       return x;
+   }
 
 
